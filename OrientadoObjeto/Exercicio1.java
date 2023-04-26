@@ -5,7 +5,7 @@ package OrientadoObjeto;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class CarroMain {
     public static void main(String[] args) {
         Carro carro1 = new Carro();
         Carro carro2 = new Carro("Ferrari");
