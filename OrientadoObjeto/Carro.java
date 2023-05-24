@@ -1,9 +1,9 @@
 package OrientadoObjeto;
 
 public class Carro {
-    public String modelo;
+    private String modelo;
     private Integer preco;
-    public Integer ano;
+    private Integer ano;
 
 public Carro (String modelo){
     this.modelo = modelo;
